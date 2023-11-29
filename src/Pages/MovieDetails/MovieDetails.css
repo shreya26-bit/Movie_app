@@ -1,0 +1,75 @@
+
+.poster{
+ position: relative;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.poster_image img{
+ height: 640px;
+ width: 100vw;
+ opacity: 0.25;
+ display: flex;
+ justify-content: center;
+}
+.poster_details{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ gap: 10px;
+
+}
+.poster_details img{
+ width: 42%;
+ border-radius: 10px;
+ float: left;
+ overflow: hidden;
+ margin-right: 23px;
+
+}
+.movie_genres{
+ margin-top: 12px;
+
+}
+.movie_genre{
+ background-color: red;
+ color: white;
+ border-radius: 8px;
+ padding: 4px;
+ margin-left: 6px;
+}
+.line{
+ width: 100%;
+ border: 1px solid rgb(96, 94, 94);
+ 
+}
+.movie_rating{
+ margin:23px;
+ padding: 6px;
+}
+.movie_abouts{
+ margin-top: 23px;
+ display: flex;
+ flex-direction: row;
+ gap: 10px;
+}
+.Original_Lang{
+ padding: 12px;
+ margin: 12px;
+}
+.movie_overview{
+ margin-left: 12px;
+}
+.line{
+ display: flex;
+margin-top: 20px;
+ width: 50%;
+}
+
+
+
+
+
+

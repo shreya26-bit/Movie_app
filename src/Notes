@@ -1,0 +1,6 @@
+<!-- If you want to show the fetch api on ui area then we will write that code -->
+  <!-- <pre>
+     {
+      JSON.stringify(currentMovie,null,2)
+     }
+     </pre> -->
