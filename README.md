@@ -5,3 +5,7 @@
 
 
 ![4movie](https://github.com/shreya26-bit/Movie_app/assets/122899199/560002dc-87e0-49dc-b71d-8d66fc7125d8)
+
+
+
+![2movie](https://github.com/shreya26-bit/Movie_app/assets/122899199/43739689-c124-476c-8698-010411e781bf)
